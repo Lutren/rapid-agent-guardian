@@ -17,6 +17,11 @@
       "sha256": "203f14ee1d0e65d0ea2e219c07523f8dcc166c10ee32256f91cfdcbc1d72cbbd"
     },
     {
+      "path": ".gitignore",
+      "bytes": 67,
+      "sha256": "1d9b7dff8750600e3e5a667287417d686de2eda04d1bef75502f51af69f7dabe"
+    },
+    {
       "path": "LICENSE",
       "bytes": 1075,
       "sha256": "67c17f9b49eb5737c2d18efd6d492ac93c1f3e86e75ddd8dc916e711d775e840"
@@ -53,8 +58,8 @@
     },
     {
       "path": "rapid_agent_guardian/readiness.py",
-      "bytes": 5736,
-      "sha256": "0dea3b1a17a6a08dd1f1b199bee4682316ec8047b9553e681af2dc0a966183ad"
+      "bytes": 5779,
+      "sha256": "1595389bd0cbc1b7ca538ad62a9c52a418152a5240c349814234125f557bf0a9"
     },
     {
       "path": "scripts/export_public_repo.py",
@@ -86,6 +91,8 @@
     "runtime",
     ".venv",
     "__pycache__",
-    ".pytest_cache"
+    ".pytest_cache",
+    "dist",
+    "build"
   ]
 }

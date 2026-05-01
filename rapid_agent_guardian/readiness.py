@@ -11,6 +11,7 @@ from typing import Any
 REQUIRED_PUBLIC_FILES = [
     "README.md",
     ".github/FUNDING.yml",
+    ".gitignore",
     "LICENSE",
     "pyproject.toml",
     "rapid_agent_guardian/__init__.py",
@@ -31,6 +32,8 @@ PUBLICATION_EXCLUDES = [
     ".venv",
     "__pycache__",
     ".pytest_cache",
+    "dist",
+    "build",
 ]
 
 SECRET_PATTERNS = [
