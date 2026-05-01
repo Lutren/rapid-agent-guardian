@@ -1,0 +1,14 @@
+{
+  "goal": "Prepare the public agent workflow repository for a safe release.",
+  "actor": "hackathon-demo-agent",
+  "target": "Lutren/agent-release-checklist",
+  "partner": "gitlab",
+  "risk": 0.62,
+  "reversibility": 0.72,
+  "human_review": true,
+  "requested_actions": [
+    "inspect_open_issues",
+    "check_pipeline_status",
+    "draft_release_handoff"
+  ]
+}

@@ -1,0 +1,15 @@
+[project]
+name = "rapid-agent-guardian"
+version = "0.1.0"
+description = "Public-safe hackathon scaffold for a Gemini and MCP powered agent safety gate."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Luis Rene Gonzalez" }]
+dependencies = []
+
+[project.scripts]
+rapid-agent-guardian = "rapid_agent_guardian.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

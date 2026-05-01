@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "rapid_agent_guardian.public_export_manifest.v1",
+  "sourceRoot": "C:\\Users\\L-Tyr\\OneDrive\\Escritorio\\-=L.R.GONZALEZ=-\\hackathons\\google-rapid-agent-2026",
+  "outputRoot": "C:\\Users\\L-Tyr\\OneDrive\\Escritorio\\-=L.R.GONZALEZ=-\\publish_staging\\hackathons\\google-rapid-agent-2026-public-safe",
+  "decision": "PUBLIC_EXPORT_STAGED",
+  "readinessDecision": "LOCAL_PUBLIC_SAFE",
+  "cloudDemoReady": false,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2586,
+      "sha256": "68001c82d57d89f0863a1e45cbf670836f2c2921899d08f02c28585be72bff5a"
+    },
+    {
+      "path": ".github/FUNDING.yml",
+      "bytes": 15,
+      "sha256": "203f14ee1d0e65d0ea2e219c07523f8dcc166c10ee32256f91cfdcbc1d72cbbd"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1075,
+      "sha256": "67c17f9b49eb5737c2d18efd6d492ac93c1f3e86e75ddd8dc916e711d775e840"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 413,
+      "sha256": "b12b45ebbf326b432732c24b414bfefd927761e465fb24b875b9053d54c8a24e"
+    },
+    {
+      "path": "rapid_agent_guardian/__init__.py",
+      "bytes": 259,
+      "sha256": "fa88b2f40f58d503869249e62c985d46f7afa600956deb6fbcb02ffc40bc5dc9"
+    },
+    {
+      "path": "rapid_agent_guardian/agent.py",
+      "bytes": 3287,
+      "sha256": "adacf1d862628f4a1e14692263b6d1c2ecd76c94144bbfcd4c68e18018aa67a1"
+    },
+    {
+      "path": "rapid_agent_guardian/cli.py",
+      "bytes": 954,
+      "sha256": "14613678478c439c6ac6c0d40658281b148c9b7f25f3a133e1a428c6d1a91ff9"
+    },
+    {
+      "path": "rapid_agent_guardian/mcp_client.py",
+      "bytes": 1882,
+      "sha256": "fe25c65b6aaf37873867421d0aa4ba353a6b002cc4763842c3f43aec749fe9a4"
+    },
+    {
+      "path": "rapid_agent_guardian/models.py",
+      "bytes": 2640,
+      "sha256": "752c2dbbc08defad5d733790612f84e9376f9632dc8af5ff609b15db1b9a10f4"
+    },
+    {
+      "path": "rapid_agent_guardian/readiness.py",
+      "bytes": 5736,
+      "sha256": "0dea3b1a17a6a08dd1f1b199bee4682316ec8047b9553e681af2dc0a966183ad"
+    },
+    {
+      "path": "scripts/export_public_repo.py",
+      "bytes": 3368,
+      "sha256": "f2d148c4f7c24c8981e36d6f27fdcf38a2d7296329dd7bc7fa7f495ed5c6ba23"
+    },
+    {
+      "path": "examples/release_goal.json",
+      "bytes": 364,
+      "sha256": "3278777742891a3d0ba0cc169a7d8d40108d7117338d45bbf36d1e0d2d02a298"
+    },
+    {
+      "path": "tests/test_agent.py",
+      "bytes": 2521,
+      "sha256": "5eace2677b3eba7fedf77d21301599983a9f0d41a651ce042f99a7ae0af9f95b"
+    },
+    {
+      "path": "docs/HACKATHON_PLAN.md",
+      "bytes": 3667,
+      "sha256": "31a26bd6916ea4eb1472c2c593ebdbda96a5ec85911d2ca18e468b9803321567"
+    },
+    {
+      "path": "docs/SUBMISSION_DRAFT.md",
+      "bytes": 2656,
+      "sha256": "1e7bcdfc4cf270e9c59fb7ec91f997fb56f81adbd0d7672a07dd58eea5be178e"
+    }
+  ],
+  "excluded": [
+    "runtime",
+    ".venv",
+    "__pycache__",
+    ".pytest_cache"
+  ]
+}
