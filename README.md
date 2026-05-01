@@ -6,6 +6,10 @@ Google Cloud Rapid Agent Hackathon prep package.
 
 [Sponsor the work](https://github.com/sponsors/Lutren)
 
+Sponsor goal: 25 monthly sponsors to fund public-safe docs, tests, release checklists, sanitized examples, and lightweight demos for local-first AI agent safety gates.
+
+Suggested monthly tiers: $5 Observer, $19 Builder, $50 Lab, $100 Patron, and $500 Integration Sponsor. Sponsorship supports the open layer; private orchestration, private prompts, unreleased canon, RPG/TCG material, secrets, and implementation internals stay out of the public package.
+
 This project is a public-safe hackathon candidate for the Google Cloud Rapid
 Agent Hackathon. It demonstrates an agent that goes beyond chat by planning a
 multi-step release or operations task, gathering evidence from a partner MCP
